@@ -9,6 +9,8 @@ function callMe() {
 }
 
 
+thisIsCrazy();
+
 function crazy() {
   // fix the code in here:
 
@@ -18,7 +20,7 @@ function crazy() {
   }
 }
 
-thisIsCrazy();
+
 
 
 function sayMyName() {
